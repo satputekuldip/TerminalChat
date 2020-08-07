@@ -29,13 +29,13 @@ Once the environment is done creating, we move into the new directory created an
 Clone the project repository by running the command below if you use SSH
 
 ```
-git clone git@github.com:samuelayo/terminal-chat.git
+git clone https://github.com/satputekuldip/TerminalChat.git
 ```
 
 If you use https, use this instead
 
 ```
-git clone https://github.com/samuelayo/terminal-chat.git
+git clone https://github.com/satputekuldip/TerminalChat.git
 ```
 
 Move into the new directory
